@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ymardanc.github.io/sitemap.html.gz
+Sitemap: https://ymardanc.github.io/app/sitemap.html.gz
+Sitemap: https://ymardanc.github.io/assets/sitemap.html.gz
+Sitemap: https://ymardanc.github.io/css/sitemap.html.gz
+Sitemap: https://ymardanc.github.io/data/sitemap.html.gz
+Sitemap: https://ymardanc.github.io/includes/sitemap.html.gz
+Sitemap: https://ymardanc.github.io/item/sitemap.html.gz
+Sitemap: https://ymardanc.github.io/src/sitemap.html.gz
